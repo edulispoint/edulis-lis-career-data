@@ -37,7 +37,7 @@ IIT_NIT_FALLBACKS = {
  'iit ism dhanbad': ('IIT (ISM) Dhanbad','https://www.iitism.ac.in/'),
  'nit jalandhar': ('Dr. B. R. Ambedkar NIT Jalandhar','https://www.nitj.ac.in/'),
  'mnit jaipur': ('Malaviya NIT Jaipur','https://mnit.ac.in/'),
- 'manit bhopal': ('Maulana Azad NIT Bhopal','https://www.manit.ac.in/content/non-teaching-recruitment-2026'),
+ 'manit bhopal': ('Maulana Azad NIT Bhopal','https://www.manit.ac.in/'),
  'mnnit allahabad': ('Motilal Nehru NIT Prayagraj','https://www.mnnit.ac.in/'),
  'nit agartala': ('NIT Agartala','https://www.nita.ac.in/'),
  'nit andhra pradesh': ('NIT Andhra Pradesh','https://www.nitandhra.ac.in/'),
@@ -66,8 +66,6 @@ IIT_NIT_FALLBACKS = {
  'nit rourkela': ('NIT Rourkela','https://nitrkl.ac.in/'),
  'svnit surat': ('Sardar Vallabhbhai NIT Surat','https://www.svnit.ac.in/'),
  'vnit nagpur': ('Visvesvaraya NIT Nagpur','https://vnit.ac.in/')
- 'tifr mumbai': ('tifr mumbai', 'https://www.hbcse.tifr.res.in/get-involved/work-at-hbcse')
- 'iip mumbai': ('iip mumbai', 'https://www.iip-in.com/iip-careers/current-openings.aspx')
 }
 BLOCK_TERMS = ['book fair','library week','library inauguration','library opening hours','library membership','library rules','library renovation']
 LIS_TERMS = ['librarian', 'college librarian', 'school librarian', 'library assistant','assistant librarian','deputy librarian','professional assistant','semi professional assistant','library attendant','library science','library and information science','information scientist','library officer','library professional','documentation officer','jrf','srf','project associate','research assistant','walk-in','walk in','phd in library','ph.d in library','library science phd','b.lib','b.lib.i.sc','m.lib','m.lib.i.sc','conference','webinar','call for papers','trainee','deputation','library admission','technical assistant library','library technical assistant','technical assistant (library)','library and information assistant','library information assistant','joa librarian','joa library','cataloguer','cataloger','library documentation assistant','library automation assistant']
